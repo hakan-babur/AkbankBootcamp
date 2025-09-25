@@ -71,3 +71,5 @@ Eğitim ve doğrulama kayıpları karşılaştırıldı
 Confusion Matrix ve sınıf bazlı doğruluk analizleri yapıldı
 
 Model, trafik işaretlerini yüksek doğruluk ile sınıflandırmayı başardı 🚀
+
+kaggle linkim:  https://www.kaggle.com/code/hakanbabur/akbanksonhal
